@@ -1,1 +1,1 @@
-#obj-m := nf_deaf.o
+obj-m := nf_deaf.o
