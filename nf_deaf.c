@@ -4,6 +4,7 @@
 #include <linux/debugfs.h>
 #include <linux/netfilter_ipv4.h>
 #include <linux/netfilter_ipv6.h>
+#include <net/ip6_checksum.h>
 
 #define MARK_MAGIC	GENMASK(31, 16)
 #define MARK_WR_ACKSEQ	BIT(15)
