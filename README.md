@@ -4,4 +4,4 @@ Host: www.speedtest.cn\r\n\
 User-Agent: Mozilla/5.0\r\n\
 Accept: */*\r\n\
 Connection: close\r\n\
-\r\n"Netfilter: Desynchronizing Evasion Against Filters
+\r\n"
